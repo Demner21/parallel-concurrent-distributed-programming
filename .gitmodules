@@ -4,3 +4,6 @@
 [submodule "parallel-programming/miniproject_2"]
 	path = parallel-programming/miniproject_2
 	url = git@github.com:Demner21/miniproject_2.git
+[submodule "parallel-programming/miniproject_3"]
+	path = parallel-programming/miniproject_3
+	url = git@github.com:Demner21/miniproject_3.git

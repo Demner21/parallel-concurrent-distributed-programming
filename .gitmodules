@@ -7,3 +7,6 @@
 [submodule "parallel-programming/miniproject_3"]
 	path = parallel-programming/miniproject_3
 	url = git@github.com:Demner21/miniproject_3.git
+[submodule "concurrent-programming/concurrent-s1"]
+	path = concurrent-programming/concurrent-s1
+	url = git@github.com:Demner21/concurrent-s1.git

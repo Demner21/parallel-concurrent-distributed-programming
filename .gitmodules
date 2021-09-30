@@ -10,3 +10,6 @@
 [submodule "concurrent-programming/concurrent-s1"]
 	path = concurrent-programming/concurrent-s1
 	url = git@github.com:Demner21/concurrent-s1.git
+[submodule "concurrent-programming/concurrent-s2"]
+	path = concurrent-programming/concurrent-s2
+	url = git@github.com:Demner21/concurrent-s2.git
